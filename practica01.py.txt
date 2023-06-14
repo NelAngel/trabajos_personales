@@ -1,0 +1,11 @@
+dato1=float(input("ingrese su dato 1: "))
+dato2=float(input("ingrese su dato 2: "))
+suma=dato1+dato2
+resta=dato1-dato2
+multiplicacion=dato1*dato2
+division=dato1/dato2
+print("su resultado de la suma es: ",suma)
+print("su resultado de la resta es: ",resta)
+print("el resultado de la multiplicacion es: ",multiplicacion)
+print("el resultado de la division es: ",division)
+
